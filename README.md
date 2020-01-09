@@ -2,6 +2,8 @@
 
 This project will consist of all the information, packages and test files required to run the automated integration test suites for Health Director. The aim is to use the Cypress framework to create an automation test suite that will cover the bulk of the acceptance tests needed for release with e2e test to follow in time.
 
+This is Chai's experimental repository.
+
 ### Getting Started
 
 Upon cloning this repo, open a CMD line inside the containing folder and run
