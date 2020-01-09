@@ -15,6 +15,7 @@ describe('Check UI for admission tab', function(){
           medicationAdmission()
           cy.matchImageSnapshot(testName)
           //testing
+          //hello
          
         })
       })
