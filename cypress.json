@@ -1,0 +1,20 @@
+{
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 180000,
+  "requestTimeout": 15000,
+  "watchForFileChanges": false,
+  "APP_DEBUG": false,
+  "video": false,
+  "env": {
+    "RETRIES": 1,
+    "longWait": 5000,
+    "shortWait": 2000,
+    "maxHeightMac": 2108,
+    "maxHeightWindows": 1080,
+    "desktop": {"name": "Desktop", "width": 1920, "height": 1080},
+    "tab2": {"name": "Tab 2", "width": 768, "height": 1024},
+    "tab4": {"name": "Tab 4", "width": 765, "height": 1280}
+  }
+}

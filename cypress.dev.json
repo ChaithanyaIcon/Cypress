@@ -1,0 +1,30 @@
+{
+  "baseUrl": "https://dev.epicdigitalau.com",
+  
+  "env": {
+    "env": "dev",
+    "accountsEmail": "EpicAccounts@epichub.onmicrosoft.com",
+    "cancerCareAdminEmail": "cancercareadmin@epichub.onmicrosoft.com",
+    "corporateAdminEmail": "corporateadmin@epichub.onmicrosoft.com",
+    "globalAdminEmail": "global.admin2@epichub.onmicrosoft.com",
+    "agedCareNurseEmail": "amynurse@epichub.onmicrosoft.com",
+    "hospitalNurseEmail": "hospitalNurse@epichub.onmicrosoft.com",
+    "pharmacistEsmail": "Pharmacist@epichub.onmicrosoft.com",
+    "pharmacyAdminEmail": "pharmacy.admin2@epichub.onmicrosoft.com",
+    "pharmacyAdminPin": "123456",
+    "pharmacyAdminId": "0000612022",
+    "pharmacyTechEmail": "PharmacyTechnician@epichub.onmicrosoft.com",
+    "doctorEmail": "hddoctor2@epichub.onmicrosoft.com",
+    "password": "EpicNPDEV@987!",
+    "nursePassword": "EpicNPDEV@789!",
+    "hospitalNursePassword": "Ep1c2019!",
+    "adminPassword": "EpicNPDEV@987!",
+    
+    "patientChartflowImagePath": "chart-images/5d2fb10ef00816.35828627-0000593371.jpeg",
+    "facilityChartflowImagePath": "chart-images/5cd4e024108731.54450692-pid-44-fcode-sjgm.jpeg",
+    
+    "ENV_URL": "https://hub-nonprod-dev-api.azurewebsites.net",
+    "API_ENV_URL": "https://epichub.onmicrosoft.com/e4e9a5e0-d2f5-4e60-b68e-904d8db71c0b",
+    "API_CLIENT_ID": "efa572db-5d88-4884-b5d1-a3992f578ceb"
+  }
+}

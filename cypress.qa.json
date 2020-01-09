@@ -1,0 +1,31 @@
+{
+  "baseUrl": "https://qa.epicdigitalau.com",
+  "env": {
+    "env": "qa",
+    "corporateAdminEmail": "corporateadminqa@epichubqa.onmicrosoft.com",
+    "accountsEmail": "accounts@epichubqa.onmicrosoft.com",
+    "cancerCareAdminEmail": "cancerCareAdmin@epichubqa.onmicrosoft.com",
+    "globalAdminEmail": "globaladmin-qa@epichubqa.onmicrosoft.com",
+    "agedCareNurseEmail": "nurse@epichubqa.onmicrosoft.com",
+    "hospitalNurseEmail": "hospital.nurse@epichubqa.onmicrosoft.com",
+    "pharmacistEmail": "pharmacist-qa@epichubqa.onmicrosoft.com",
+    "pharmacistPin": "1234",
+    "pharmacyAdminEmail": "pharmacy.admin2@epichubqa.onmicrosoft.com",
+    "pharmacyAdminPin": "1234",
+    "pharmacyAdminId": "0001780094",
+    "pharmacyTechEmail": "pharmacytech@epichubqa.onmicrosoft.com",
+    "pharmacyTechPin": "1234",
+    "doctorEmail": "hddoctor@epichubqa.onmicrosoft.com",
+    "password": "EpicNPQA@987!",
+    "nursePassword": "EpicNPQA@987!",
+    "hospitalNursePassword": "EpicNPQA@987!",
+    "adminPassword": "EpicNPQA@987!G.",
+    
+    "patientChartflowImagePath": "chart-images/5b330bf8789689.63204632-0000209728.jpeg",
+    "facilityChartflowImagePath": "chart-images/5c6365026a6f79.14067193-pid-44-fcode-sjgm.jpeg",
+    
+    "ENV_URL": "https://hub-nonprod-qa-api.azurewebsites.net",
+    "API_ENV_URL": "https://epichubqa.onmicrosoft.com/api",
+    "API_CLIENT_ID": "af6d8957-d781-4ecd-95af-44c2eec194ec"
+  }
+}
