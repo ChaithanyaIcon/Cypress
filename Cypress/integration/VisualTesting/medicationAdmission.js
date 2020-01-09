@@ -14,6 +14,7 @@ describe('Check UI for admission tab', function(){
           cy.visit('/customer/profile/0000093236/details#/admission/list')
           medicationAdmission()
           cy.matchImageSnapshot(testName)
+          //testing
          
         })
       })
